@@ -1,0 +1,217 @@
+/* colored section */
+.colored-section{
+    background-color: #ff4c68;
+}
+
+/* white sectionn */
+.white-section{
+  background-color:#fff;
+}
+ /* CENTER */
+ #cta,.margin-da,#footer,.koothi,#pricing,#features,#testimonials,#press,.padding{
+   text-align: center;
+ }
+
+.card{
+ padding: 7% 15%;
+ border: 10px;
+
+}
+
+.left{
+  text-align: left;
+}
+
+#cta{
+  padding: 7% 15%;
+}
+
+.download{
+
+  background-color:#ff4c68;
+
+
+}
+.margin-da{
+
+  margin-top: 0;
+  text-transform: capitalize;
+  font-size: 3rem;
+  padding: 20%;
+  color: #fff;
+}
+.body-punda{
+  margin: 0;
+
+}
+.underline{
+  text-decoration: none;
+}
+.bottom{
+  font-size: 2rem;
+  font-family:Montserrat Black;
+  font-weight: bolder;
+  color: #fff;
+}
+
+#footer{
+
+
+  padding: 7% 15%;
+}
+
+.paragraph{
+  padding-top: 4px;
+
+}
+
+
+#title{
+  background-color:#ff4c68;
+  color:#fff;
+  padding-left: 33px;
+}
+
+.navbar-nav{
+  position: absolute;
+  right: 0;
+}
+/* for mobile size editing */
+@media(max-width:1000px){
+  .image{
+    position: relative;
+    top: 20%;
+
+  }
+  .testimonial-text{
+    font-size: 10px;
+  }
+  .munda{
+    font-size: 1rem;
+    width: 34%;
+    text-decoration:  none;
+  }
+  .bottom{
+    font-size:1rem;
+  }
+}
+
+.koothi{
+
+}
+
+.btn-block{
+  width: 100%;
+}
+#pricing{
+  padding:100px;
+}
+
+.padding{
+  padding: 3% 5%;
+}
+
+.fa-4x{
+  color:pink;
+}
+
+.fa-4x:hover{
+  color:red;
+}
+
+.pota{
+  color: #8f8f8f;
+}
+
+.punda{
+  font-size: 2rem;
+}
+
+h3{
+  font-family: Montserrat Bold;
+}
+
+#features{
+  position: relative;
+  bottom: 10px;
+  z-index: 1;
+  width: 100%;
+  padding: 7% 15%;
+}
+
+middle-row{
+  margin-top: 29px;
+}
+
+h1{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: :3rem;
+  line-height: 3;
+  text-decoration: none;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+body{
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.navbar-brand{
+  font-family: cursive;
+  font-size: 0 0 2.3rem;
+  font-weight:  bold;
+}
+
+.navbar{
+  padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 4rem;
+  font-family:fantasy;
+}
+
+.btn{
+  margin-top:3rem    ;
+}
+
+.rotate-img{
+  position: absolute;
+  left: 50%;
+  padding-right: 0 14rem ;
+  width:19%;
+  transform:  rotate(0deg);
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonial-text{
+  font-size: 3rem;
+  font-family: Montserrat bold;
+color: white;}
+
+.dog{
+  width: 14%;
+  border-radius:100%;
+  margin-top: 10%;
+}
+
+#press{
+  padding: 7% 15% ;
+}
+
+.log-img{
+  width:15%;
+  padding: 1%;
+}
+.munda{
+  text-decoration: none;
+}
